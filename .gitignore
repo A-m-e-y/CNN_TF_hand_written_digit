@@ -9,6 +9,7 @@ mnist/
 resized_mnist/
 logs/
 custom_cnn_model.h5
+profile_counters.json
 # C extensions
 *.so
 
