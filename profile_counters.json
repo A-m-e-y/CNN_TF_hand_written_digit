@@ -1,0 +1,14 @@
+{
+  "sw_convolve": {
+    "call_count": 24,
+    "total_time": 0.13348313886672258
+  },
+  "CustomConv2D.call": {
+    "call_count": 24,
+    "total_time": 1.2879418199299835
+  },
+  "CustomDense.call": {
+    "call_count": 16,
+    "total_time": 0.09826664405409247
+  }
+}

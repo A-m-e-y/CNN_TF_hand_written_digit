@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Amey
+a.out
+mnist/
+resized_mnist/
+logs/
+custom_cnn_model.h5
 # C extensions
 *.so
 
